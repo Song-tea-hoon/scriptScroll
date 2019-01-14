@@ -11,10 +11,12 @@ git clone https://github.com/Song-tea-hoon/scriptScroll.git
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 npm run start
 ```
+
+## Project tree
 
 ```
 │  README.md
